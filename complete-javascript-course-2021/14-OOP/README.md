@@ -55,3 +55,17 @@ car1 : 'Ford' going at 120km/h
 ```
 car1 : 'Tesla' going at 120 km/h, with a charge of 23%
 ```
+
+## Coding Challenge #3
+
+### 구현 목록
+
+1. ES6 Class를 이용한 ElectricCar 객체 구현
+2. `charge` 프로퍼티
+   - private 하도록 구현
+3. `accelerate`와 `chargeBettery`에 chaining 적용하기
+4. Data
+
+```
+car1 : 'Rivian' going at 120km/h, with a charge of 23%
+```
