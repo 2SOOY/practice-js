@@ -36,3 +36,22 @@ car2 : 'Mercedes' going at 95 km/h
 ```
 car1 : 'Ford' going at 120km/h
 ```
+
+## Coding Challenge #3
+
+### 구현 목록
+
+1. function을 활용하여 ElectricCar 객체 만들기
+   - ElectricCar는 Car객체의 child 객체
+   - `charge` 프로퍼티 : %
+2. `chargeBettery` 메소드
+   - chargeTo를 인자로 받아 charge의 값을 갱신함
+3. `accelerate` 메소드
+   - speed 20 증가
+   - charge 1% 감소
+   - 메시지 출력
+4. Data
+
+```
+car1 : 'Tesla' going at 120 km/h, with a charge of 23%
+```
